@@ -1,0 +1,13 @@
+db-mysql:
+  user: root
+  password: example
+  name: rents
+  hostname: localhost
+  port: 3306
+
+db-postgre:
+  user: postgres
+  password: postgres
+  name: rents
+  hostname: localhost
+  port: 5432
